@@ -21,8 +21,6 @@ I'm a developer and researcher interested in data science, predictive modeling, 
 
 ## 📊 GitHub Stats
 
-![Archith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArchithSharma&show_icons=true&theme=gruvbox)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArchithSharma&layout=compact&theme=gruvbox)
 
 ## 📫 Connect With Me
