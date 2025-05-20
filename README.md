@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Archith Sharma
 
-I'm a developer and researcher interested in data science, predictive modeling, and impactful projects that blend tech with real-world applications. I work with R, Python, TeX, and HTML to build meaningful tools—from sports analytics to elections and ecological data analysis.
+I'm a developer and researcher interested in data science, predictive modeling, and impactful projects that blend tech with real-world applications. I work with R, Python, TeX, Java, and HTML to build meaningful tools—from sports analytics to elections and ecological data analysis.
 
 ## 🧠 Featured Projects
 
