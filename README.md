@@ -19,10 +19,6 @@ I'm a developer and researcher interested in data science, predictive modeling, 
 - **Tech:** ggplot2, dplyr, Shiny, numpy, scikit-learn, Flask, pandas, LaTeX, Bootstrap
 - **Focus Areas:** Predictive Modeling, Time Series, Data Visualization, Ecological Informatics, Web Dev
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArchithSharma&layout=compact&theme=gruvbox)
-
 
 ## 📫 Connect With Me
 
