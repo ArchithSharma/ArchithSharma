@@ -22,9 +22,9 @@ I'm a developer and researcher interested in data science, predictive modeling, 
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/archith-sharma-9a421a298/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/archithsharma)  
 - 📧 Email: archithsharma@gmail.com  
-- 🌐 Portfolio (coming soon!)
+- 🌐 Website: (https://archithsharma.github.io)
 
 ---
 
